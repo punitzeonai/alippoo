@@ -1,0 +1,19 @@
+
+.btn-edit , .btn-delete{
+    background-color: royalblue;
+    color: wheat;
+    width: 80px;
+    font-weight: 600;
+    height: 30px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+ th, td {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 100%;
+  }
